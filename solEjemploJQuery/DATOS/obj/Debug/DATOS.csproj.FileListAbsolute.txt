@@ -1,0 +1,11 @@
+D:\solEjemploJQuery\DATOS\bin\Debug\DATOS.dll
+D:\solEjemploJQuery\DATOS\bin\Debug\DATOS.pdb
+D:\solEjemploJQuery\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+D:\solEjemploJQuery\DATOS\obj\Debug\DATOS.dll
+D:\solEjemploJQuery\DATOS\obj\Debug\DATOS.pdb
+E:\solEjemploJQuery\DATOS\bin\Debug\DATOS.dll
+E:\solEjemploJQuery\DATOS\bin\Debug\DATOS.pdb
+E:\solEjemploJQuery\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+E:\solEjemploJQuery\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+E:\solEjemploJQuery\DATOS\obj\Debug\DATOS.dll
+E:\solEjemploJQuery\DATOS\obj\Debug\DATOS.pdb
